@@ -34,6 +34,14 @@ streamlit run app.py
 
 The app will be available at `http://localhost:8501`.
 
+### Manual Update
+
+To run the data scraping and forecasting process immediately (bypassing the schedule check):
+
+```bash
+python scheduler.py --force
+```
+
 ### Setting up the Scheduler
 
 To enable automatic monthly updates (runs on the 30th):
