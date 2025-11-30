@@ -13,7 +13,7 @@ This application scrapes the latest **Consumer Price Index (Year to Year % Chang
 
 1.  **Clone the repository**:
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/ggaammdev/cpi_estimate
     cd cpi_estimate
     ```
 
