@@ -63,4 +63,4 @@ To enable automatic monthly updates (runs on the 30th):
 
 ## License
 
-MIT
+Apache License 2.0
